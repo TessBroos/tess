@@ -25,7 +25,7 @@ Welcome to my GitHub repository! This project contains all necessary files for t
    ```bash
    git clone https://github.com/TessBroos/tess.git
 
-2023 XYZ, Inc.
+
 
 
 ..
